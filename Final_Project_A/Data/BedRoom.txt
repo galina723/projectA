@@ -1,0 +1,63 @@
+007
+Tiny Bed Table
+20
+5
+wood
+In Stock
+assets\images\product\Bed_RoomProducts\9fedf9ad5dc6bc6740e1af3a2212c59e.jpg
+008
+Flora-Standing Bed Shelf
+45
+34
+wood
+In Stock
+assets/images/product/Bed_RoomProducts/26dc6ff059f7096197d51f384148cfb5.jpg
+009
+Aura-Standing Bed Shelf
+45
+33
+wood
+In Stock
+assets/images/product/Bed_RoomProducts/1038acf1a104106d5ef0f7d40fe9a00f.jpg
+010
+Beauty Mirror
+38
+50
+wood
+In Stock
+assets/images/product/Bed_RoomProducts/b759288027c9301d219f7b512010a93a.jpg
+011
+Big-Beauty Fullsize Mirror
+60
+20
+plastic
+In Stock
+assets/images/product/Bed_RoomProducts/bbb88d5242321afbc57b3f880e250ae7.jpg
+012
+Higene Make-up Table
+40
+30
+wood
+In Stock
+assets/images/product/Bed_RoomProducts/c61d3239081c777633f234afb767839e.jpg
+013
+Indience Bed
+40
+30
+wood
+In Stock
+assets\images\product\Bed_RoomProducts\3333970ae2325ed87af17ea7c20a0c07.jpg
+014
+Marinay Make-up Table
+100
+30
+Wood
+In Stock
+assets\images\product\Bed_RoomProducts\d20449d91ee4a021ce75d538528dee7f.jpg
+015
+Couple Bed
+20
+5
+wood
+In Stock
+assets\images\product\Bed_RoomProducts\deaa9c426aa2f5337362d985873e2278.jpg
